@@ -1,6 +1,7 @@
-# Guide de Sécurité Backend & Architecture (Pour Débutants)
+# Guide de Sécurité Backend & Architecture (
 
-Ce document a été créé pour vous aider à vous souvenir de la procédure exacte que nous avons mise en place pour sécuriser votre site ELY EATS, et surtout pour comprendre **pourquoi** nous l'avons fait.
+
+Ce document a été créé pour vous aider à vous souvenir de la procédure exacte que nous avons mise en place pour sécuriser votre site  AUTOMATE EATS, et surtout pour comprendre **pourquoi** nous l'avons fait.
 
 ---
 
